@@ -2,8 +2,7 @@
 
 ## Description
 
-This project have the objective to find all of the heroes quotes at the wedsite https://overwatch.gamepedia.com/Category:Quotations
-and it's an update from the project https://github.com/TCsTheMechanic/HTML-Search-BOT-2.7
+This project have the objective to find all of the Overwatch heroes quotes at the website https://overwatch.gamepedia.com/Category:Quotations, and it's an update from the project https://github.com/TCsTheMechanic/HTML-Search-BOT-2.7
 
 ## Environment
 
