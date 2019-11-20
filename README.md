@@ -1,4 +1,4 @@
-# HTML Search BOT for 3.6
+# HTML Search BOT 3.6
 
 ## Description
 
